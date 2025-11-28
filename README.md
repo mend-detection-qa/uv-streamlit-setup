@@ -1,3 +1,17 @@
+2. data-sloth/uv-streamlit-setup
+URL: https://github.com/data-sloth/uv-streamlit-setup
+Stars: 12
+Forks: 1
+Type: Data Dashboard / Web App Template
+UV Version: 0.9.x
+Python Version: 3.10+
+Last Updated: December 8, 2024
+Main Dependencies: Streamlit, pytest, setuptools
+Key Features: Template repository, Streamlit Cloud ready, src-layout structure
+Live Demo: https://uv-setup-example.streamlit.app
+Why Analyzed: UV integration with data science tools, deployment-ready
+
+
 ## How to set up a repo like this from scratch, using VSCode - *instructions for dummies*!
 
 1. Install uv (https://docs.astral.sh/uv/). Make sure this is done in/for a Python environment which is referenced in your system $PATH, otherwise you won't be able to call uv in terminal.
